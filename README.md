@@ -10,7 +10,7 @@
 Данные для датасета были спарсены с [данного ресурса](https://www.visualcrossing.com/).
 
 ### Ссылка на вебсайт с проектом
-Данный дашборд также опубликован на бесплатном хостинге pythonanywhere. [Ссылка на вебсайт с проектом]([http://yakushenko.pythonanywhere.com/](https://lilpepe1.pythonanywhere.com/)).
+Данный дашборд также опубликован на бесплатном хостинге pythonanywhere. [Ссылка на вебсайт с проектом](https://lilpepe1.pythonanywhere.com/).
 
 ### Требуемое ПО
 У Вас должны быть установлены соответствующие ПО: Visual Studio Code и Python (версия 3.11).
